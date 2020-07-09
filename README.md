@@ -1,6 +1,8 @@
 # Dracula-V
 The dracula theme with a violet tint
 
+![ScreenShot](./Screenshots/colors_screenshot.png)
+
 ## Dracula-V Palette
 
 | Palette           | Hex       | RGB                   |
