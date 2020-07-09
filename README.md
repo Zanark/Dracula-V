@@ -1,7 +1,35 @@
 # Dracula-V
 The dracula theme with a violet tint
 
-## Dracula Palette
+## Dracula-V Palette
+
+| Palette           | Hex       | RGB                   |
+| :---             | :---:     | :---                 |
+| Background        | `#29212c` | `rgb(41, 33, 44)`     |
+| Current Line      | `#684b68` | `rgb(104, 75, 104)`   |
+| Selection         | `#684b68` | `rgb(104, 75, 104)`   |
+| Foreground        | `#f5f5d6` | `rgb(245, 245, 214)`  |
+| Comment           | `#9d6aaf` | `rgb(157, 106, 175)`  |
+| Black             | `#100a10` | `rgb(16, 10, 16)`     |
+| Dark Grey         | `#4a5169` | `rgb(74, 81, 105)`    |
+| Light Grey        | `#e4e4cd` | `rgb(228, 228, 205)`  |
+| Red               | `#ff4d4d` | `rgb(255, 77, 77)`    |
+| Light Red         | `#ff8080` | `rgb(255, 128, 128)`  |
+| Green             | `#50fa7b` | `rgb(80, 250, 123)`   |
+| Light Green       | `#83fba1` | `rgb(131, 251, 161)`  |
+| Brown             | `#fcdf88` | `rgb(252, 223, 136)`  |
+| Yellow            | `#f0fa85` | `rgb(240, 250, 133)`  |
+| Blue              | `#b687f8` | `rgb(182, 135, 248)`  |
+| Light Blue        | `#d6acff` | `rgb(214, 172, 255)`  |
+| Magenta           | `#ff66bd` | `rgb(255, 102, 189)`  |
+| Light Magenta     | `#ff92df` | `rgb(255, 146, 223)`  |
+| Pink              | `#ff79c6` | `rgb(255, 121, 198)`  |
+| Cyan              | `#8be9fd` | `rgb(139, 233, 253)`  |
+| Light Cyan        | `#a4ffff` | `rgb(164, 255, 255)`  |
+| Purple            | `#bd93f9` | `rgb(189, 147, 249)`  |
+| Orange            | `#ffb86c` | `rgb(255, 184, 108)`  |
+
+## Dracula Palette for comparison
 
 Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
 ---          | ---       | ---           | ---             | ---
