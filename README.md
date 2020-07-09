@@ -4,7 +4,7 @@ The dracula theme with a violet tint
 ## Dracula-V Palette
 
 | Palette           | Hex       | RGB                   |
-| :---             | :---:     | :---                 |
+| :---              | :---:     | :---                  |
 | Background        | `#29212c` | `rgb(41, 33, 44)`     |
 | Current Line      | `#684b68` | `rgb(104, 75, 104)`   |
 | Selection         | `#684b68` | `rgb(104, 75, 104)`   |
